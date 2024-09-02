@@ -29,7 +29,7 @@ cd task-board
 Open the index.html file in your web browser to view the application.
 Usage
 Open the deployed URL in your web browser to access the live version of the application:
-https://your-deployed-url.github.io/task-board/
+[https://your-deployed-url.github.io/task-board/](https://bilenie.github.io/control_board/)
 
 The deployed application should allow you to:
 
